@@ -16,6 +16,7 @@ const Container = styled.div`
   gap: 50px;
 
 `
+
 const Left = styled.div`
   flex: 1;
   display: flex;
